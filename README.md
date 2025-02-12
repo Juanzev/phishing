@@ -12,5 +12,5 @@
 - Obtendo o endereço da máquina: ifconfig
 - URL para clone: http://www.facebook.com
 # Resultado 
-[Captura de tela 2025-02-12 074125](https://github.com/user-attachments/assets/7af62e4a-00f3-417a-bbe3-75542fc72315)
+![Captura de tela 2025-02-12 074125](https://github.com/user-attachments/assets/7af62e4a-00f3-417a-bbe3-75542fc72315)
 
